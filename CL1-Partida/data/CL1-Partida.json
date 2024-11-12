@@ -1,0 +1,302 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te ha sucedido que al leer un informe o artículo, entiendes las palabras pero no logras captar el mensaje general?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "¡Genial! Si nunca te ha sucedido, te animo a profundizar cuando ingreses en la escena 3 en el tema de «Comprensión avanzada: más allá de la decodificación». Esto te permitirá no solo entender, sino también anticipar y prever posibles implicaciones de los textos, lo que te dará una ventaja estratégica en la toma de decisiones en tu trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Es normal que a veces cueste captar el mensaje general. Repasar «Técnicas para una comprensión más efectiva» te ayudará a transformar esas veces en oportunidades para mejorar tu capacidad de análisis. Esto es clave para asegurarte de que siempre estás entendiendo el mensaje completo y puedes actuar con confianza y precisión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si esto te pasa a menudo, no te preocupes, es un área en la que todos podemos mejorar. Revisar «Claves para construir el sentido del texto» te permitirá descubrir herramientas para conectar mejor las ideas y mensajes en los textos, lo que hará que te sientas más seguro al interpretar información crucial en tu trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si esto te sucede siempre, es un buen momento para trabajar en ello. Enfocarte en «Fundamentos de la comprensión lectora» te ayudará a desarrollar una comprensión más profunda y coherente, dándote la confianza para abordar cualquier texto con claridad y precisión. Esto no solo mejorará tu desempeño, sino que también te ahorrará tiempo y esfuerzo en tus tareas diarias."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Al leer un texto laboral, como un informe o manual, logras recordar las ideas principales pero te cuesta construir una imagen mental completa de la situación?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "¡Excelente! Si esto no te sucede, te sugiero explorar «Modelos mentales complejos: optimización de la comprensión». Esto te ayudará a afinar tu capacidad de visualizar escenarios complejos, lo que es vital para anticipar problemas y soluciones en tu trabajo. Desarrollar esta habilidad puede hacerte un líder en tu equipo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si esto te ocurre ocasionalmente, no te preocupes. Repasar «Cómo pasar de la base del texto a la construcción de modelos de situación» te permitirá fortalecer esa habilidad crucial de visualizar y conectar información. Esto es esencial para tomar decisiones informadas y comunicar ideas de manera más efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si esto te pasa frecuentemente, es una oportunidad para mejorar. Revisar la sección «Desarrollo de modelos de situación para una comprensión más profunda» te permitirá transformar la información que lees en imágenes claras y comprensibles, lo que te dará una visión más completa y útil de cualquier situación laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te cuesta visualizar lo que lees, es importante que trabajes en ello. Enfocarte en «Construcción de representaciones mentales: técnicas y prácticas» te ayudará a desarrollar esta habilidad crucial, facilitándote la interpretación y aplicación de la información en tu trabajo. Esto no solo mejorará tu rendimiento, sino que también te permitirá comunicarte y colaborar más efectivamente con tu equipo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te resulta fácil recordar la información específica de un texto inmediatamente después de leerlo, pero difícil integrar y aplicarla a situaciones nuevas o diferentes?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "¡Fantástico! Si nunca tienes problemas con esto, te sugiero que explores «Aplicación avanzada de conocimientos: del texto a la práctica». Esto te permitirá llevar tus habilidades al siguiente nivel, asegurando que puedas aplicar lo que aprendes de manera eficaz en cualquier contexto, lo que te hará destacar en tu rol."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Es común que a veces sea difícil aplicar lo que leemos. Repasar «Del recuerdo a la aplicación: cómo hacer útil la información» te ayudará a fortalecer esta habilidad, asegurándote de que puedes convertir la información en acción concreta, lo cual es esencial para lograr resultados en tu trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si esto te sucede con frecuencia, no te preocupes. Enfocarte en «Estrategias para integrar y aplicar información» te dará las herramientas necesarias para transformar lo que lees en acciones concretas y efectivas, mejorando así tu capacidad para enfrentar desafíos y aprovechar oportunidades en tu entorno laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre tienes dificultades para aplicar lo que lees, es fundamental que trabajes en ello. Concentrarte en «Cómo transformar la comprensión en acción: técnicas de integración» te permitirá superar esta barrera, facilitando la aplicación práctica de tus conocimientos y aumentando tu efectividad y éxito en el trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te resulta fácil construir el significado general de un texto mientras lees, relacionando la nueva información con tu conocimiento previo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca logras construir el significado general, te recomiendo empezar con «Fundamentos de la construcción de significado». Esto te permitirá aprender a integrar lo que lees con lo que ya sabes, una habilidad clave para mejorar tu comprensión lectora y tomar decisiones informadas en situaciones complejas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te cuesta, repasa «Estrategias para integrar nueva información con conocimientos previos». Al fortalecer esta habilidad, podrás transformar la lectura en una herramienta más poderosa para enfrentar múltiples tareas en tu trabajo, conectando y aplicando mejor la información que encuentras."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si esto te pasa con frecuencia, es una oportunidad para mejorar. Dedica tiempo a «Técnicas para una construcción de significado más eficiente», lo que te ayudará a entender y aplicar más fácilmente la información, haciéndote más eficiente y preciso en tus tareas diarias."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te resulta difícil, no te desanimes. Enfocarte en «Construcción de significados: de la teoría a la práctica» te dará las herramientas necesarias para superar este obstáculo, lo que te permitirá manejar mejor múltiples tareas simultáneamente y mejorar tu desempeño en el trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Puedes hacer inferencias y \"leer entre líneas\" mientras avanzas en la lectura de textos complejos?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca haces inferencias, es importante empezar por «Introducción a las inferencias en la lectura». Esto te ayudará a desarrollar la habilidad de \"leer entre líneas\", lo que es fundamental para comprender a fondo cualquier texto y aplicar su contenido en contextos prácticos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces puedes hacer inferencias, te sugiero profundizar en «Cómo mejorar las inferencias para una comprensión más profunda». Esto te permitirá sacar conclusiones más precisas y útiles, lo cual es vital para interpretar correctamente la información y tomar decisiones acertadas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia haces inferencias, estás en el camino correcto. Aún así, revisar «Técnicas avanzadas para la realización de inferencias» te ayudará a perfeccionar esta habilidad, haciendo que tu lectura sea más analítica y que puedas detectar patrones y conexiones más fácilmente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre haces inferencias, ¡excelente! Aún así, explorar «Inferencias y pensamiento crítico en la lectura» te permitirá llevar tus habilidades al siguiente nivel, haciendo que tu capacidad para interpretar y aplicar la información sea aún más robusta y efectiva en la resolución de problemas."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Monitoreas activamente tu comprensión mientras lees, identificando cuándo algo no tiene sentido y tomando medidas para aclararlo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca monitoreas tu comprensión, es crucial empezar con «Estrategias básicas para el monitoreo de la comprensión». Desarrollar esta habilidad es esencial para evitar malentendidos y mejorar tu capacidad de manejar textos complejos, asegurando que siempre estás en control de lo que lees."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces monitoreas tu comprensión, revisa «Técnicas para un monitoreo más efectivo». Esto te permitirá identificar y corregir malentendidos rápidamente, mejorando tu eficiencia y precisión al trabajar con múltiples fuentes de información."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia monitoreas tu comprensión, estás bien encaminado. Aún así, explorar «Monitoreo avanzado: cómo asegurarte de que entiendes lo que lees» te ayudará a perfeccionar esta habilidad, asegurando que siempre puedas corregir cualquier confusión y mantener un alto nivel de comprensión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre monitoreas tu comprensión, ¡fantástico! Aun así, revisar «Monitoreo y metacognición: estrategias para mejorar la comprensión continua» puede ayudarte a llevar tus habilidades al siguiente nivel, haciéndote aún más eficiente y preciso al enfrentar tareas complejas en tu trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te sientes cómodo/a evaluando la credibilidad de diferentes fuentes de información antes de tomar una decisión en tu trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca evalúas la credibilidad de las fuentes, es fundamental empezar con «Fundamentos para evaluar la credibilidad de fuentes». Este aprendizaje es clave para evitar errores al interpretar información y asegurar que las decisiones que tomes estén basadas en datos confiables, lo cual es esencial para cualquier puesto laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te resulta difícil, te sugiero reforzar «Estrategias para evaluar fuentes de información en contextos laborales». Mejorar esta habilidad te ayudará a discernir con mayor precisión qué información es útil y relevante, y qué datos pueden ser engañosos o irrelevantes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia evalúas la credibilidad de las fuentes, estás en buen camino. Aun así, podrías beneficiarte de «Técnicas avanzadas para la evaluación de la credibilidad», lo que te permitirá ser aún más riguroso/a en tu análisis y mejorar la calidad de las decisiones laborales que tomes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre evalúas la credibilidad, ¡excelente! Aún así, explorar «Evaluación crítica y toma de decisiones informadas» puede ayudarte a perfeccionar esta habilidad, asegurando que siempre tomes decisiones basadas en la mejor información posible."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cómo te va al sintetizar información compleja y comunicarla de manera clara a tus superiores o compañeros de trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca logras sintetizar información de forma clara, es importante que trabajes en «Técnicas para sintetizar y comunicar información laboral». Esta habilidad es crucial para evitar malentendidos y asegurar que las decisiones basadas en tu análisis sean precisas y efectivas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te resulta difícil, te recomiendo revisar «Métodos para mejorar la síntesis y comunicación en el trabajo». Esto te permitirá transmitir tus ideas de manera más clara y efectiva, lo cual es fundamental para que tus aportes sean valorados y tenidos en cuenta en la toma de decisiones."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia logras sintetizar y comunicar, vas por buen camino. Aún así, considera explorar «Estrategias avanzadas para la comunicación efectiva en entornos laborales», lo que te ayudará a pulir esta habilidad y a asegurar que tus informes sean siempre claros y bien recibidos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre sintetizas y comunicas bien, ¡felicitaciones! Aun así, podrías beneficiarte de «Comunicación efectiva y liderazgo», para seguir mejorando en cómo presentas tus ideas y cómo estas pueden influir positivamente en tu entorno laboral."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuán bien entiendes y manejas gráficos, tablas y estadísticas cuando necesitas tomar decisiones en tu trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca entiendes gráficos y estadísticas, es fundamental comenzar con «Introducción al análisis de gráficos y estadísticas en el trabajo». Este conocimiento es clave para interpretar correctamente los datos y tomar decisiones basadas en evidencia, lo que es vital en cualquier rol laboral."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te cuesta, te sugiero fortalecer «Técnicas para interpretar y aplicar datos en decisiones laborales». Mejorar esta habilidad te permitirá sacar conclusiones más acertadas y contribuir de manera más efectiva en tu equipo de trabajo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia manejas gráficos y estadísticas, es una buena señal. Aun así, revisar «Análisis avanzado de datos para la toma de decisiones» te ayudará a perfeccionar esta habilidad y a asegurar que tus decisiones estén siempre respaldadas por una interpretación precisa de los datos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre manejas bien gráficos y estadísticas, ¡genial! Podrías beneficiarte de «Aplicación de datos y análisis crítico en entornos laborales», lo que te permitirá utilizar esta habilidad para liderar proyectos y tomar decisiones estratégicas con mayor impacto."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan cómodo/a te sientes al buscar información relevante y confiable para tomar decisiones en tu trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te sientes cómodo/a, es esencial empezar con «Estrategias para identificar y seleccionar fuentes confiables». Esta habilidad te permitirá asegurarte de que la información que usas en tu trabajo es precisa y está respaldada por datos sólidos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te resulta difícil, te sugiero revisar «Mejora en la evaluación de fuentes y su relevancia en el contexto laboral». Esto te ayudará a discernir qué fuentes son más útiles y confiables para tus necesidades laborales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia te sientes cómodo/a, vas por buen camino. Aun así, podrías beneficiarte de «Técnicas avanzadas para la búsqueda y evaluación de información en entornos laborales», para refinar tu habilidad de encontrar la mejor información disponible."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te sientes cómodo/a, ¡felicitaciones! Podrías explorar «Estrategias de investigación avanzada para toma de decisiones estratégicas», lo que te permitirá maximizar el impacto de tu capacidad de investigación en el contexto profesional."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan bien elaboras conclusiones basadas en la información que encuentras en tu trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca elaboras conclusiones sólidas, es crucial empezar con «Fundamentos para la elaboración de conclusiones basadas en datos». Esto te ayudará a desarrollar un enfoque analítico para tomar decisiones bien fundamentadas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te cuesta, te sugiero fortalecer «Técnicas para el análisis crítico de información en entornos laborales». Mejorar esta habilidad te permitirá identificar patrones y tendencias con mayor precisión, y derivar conclusiones más fiables."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia elaboras buenas conclusiones, estás en el camino correcto. Aun así, podrías beneficiarte de «Métodos avanzados para la síntesis y análisis de información», para perfeccionar tu capacidad de tomar decisiones estratégicas basadas en un análisis exhaustivo."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre elaboras conclusiones bien fundamentadas, ¡excelente! Podrías profundizar en «Análisis crítico y toma de decisiones estratégicas en contextos laborales», lo que te permitirá elevar tu capacidad de análisis a un nivel superior."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tan bien puedes comunicar tus hallazgos y conclusiones de manera clara y efectiva en el trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca comunicas de manera efectiva, es vital que trabajes en «Técnicas de comunicación clara y efectiva en entornos laborales». Esta habilidad es fundamental para asegurar que tus ideas sean comprendidas y valoradas por tus colegas y superiores."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Algunas veces",
+        "Devolucion": "Si algunas veces te cuesta, te sugiero explorar «Mejora en la comunicación de hallazgos y conclusiones en el entorno laboral». Esta guía te ayudará a organizar y presentar tus ideas de manera más clara y convincente."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si con frecuencia comunicas de manera efectiva, estás bien encaminado/a. Aun así, podrías beneficiarte de «Estrategias avanzadas de comunicación para profesionales», lo que te permitirá mejorar la persuasión y claridad en tus presentaciones y reportes."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre comunicas de manera efectiva, ¡muy bien! Podrías profundizar en «Comunicación avanzada y liderazgo en entornos laborales», lo que te permitirá utilizar tus habilidades de comunicación para liderar proyectos y equipos de manera más efectiva."
+    }
+]

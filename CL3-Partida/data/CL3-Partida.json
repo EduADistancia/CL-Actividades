@@ -1,0 +1,152 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué frecuencia sentís que a los textos que lees les falta información que no podés reponer?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca sentís que a los textos que leés les falta información que no podés reponer, probablemente tenés una buena capacidad para inferir. Sin embargo, para fortalecer aún más tu comprensión, te sugerimos revisar la sección ¿Para qué sirven? de la Escena 1, para enriquecer tu comprensión al añadir contexto y profundidad a los textos que leés."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces sentís que los textos tienen información faltante, podrías beneficiarte al focalizar en el apartado ¿Qué son? de la Escena 1. Ahí aprenderás cómo funcionan las inferencias y cómo puedes utilizar el contexto del texto y tu conocimiento previo para llenar esos vacíos de información. Esto te permitirá abordar los textos con más confianza y precisión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente encontrás que a los textos les falta información que no podés reponer, es importante desarrollar habilidades más avanzadas en la realización de inferencias. Además de revisar la sección ¿Qué son?, te recomendamos que consultes ¿Para qué sirven?, en la Escena 1. Esta sección te ofrecerá estrategias adicionales para interpretar y completar la información ausente en los textos que leés."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre sentís que a los textos les falta información que no podés reponer, es fundamental que te enfoques en mejorar tus habilidades de inferencia. Te proponemos focalizar en los apartados de la Escena 1 ¿Qué son? y ¿Para qué sirven?. Estas secciones te ayudarán a entender cómo realizar inferencias efectivas y a manejar mejor los vacíos de información, permitiéndote interpretar y completar los textos con mayor facilidad."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez tuviste dificultades para comprender el significado implícito de un texto, que no esté expresamente visible en su superficie?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca has tenido problemas para reconocer el significado implícito de un texto, es probable que ya comprendas bien la importancia de hacer inferencias. Para seguir desarrollando tus habilidades, te recomendamos revisar la sección ¿Por qué son importantes? de la Escena 1. Aunque ya estés en buen camino, explorar estos temas te ayudará a afianzar y expandir tus habilidades."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás dificultades para reconocer el significado implícito en los textos, te sugerimos enfocarte en la sección ¿Por qué son importantes? de la Escena 1. Esta sección te ayudará a entender cómo las inferencias son esenciales para interpretar significados implícitos y conectar detalles de diferentes partes del texto. Además, te recomendamos desarrollar tu pensamiento crítico al cuestionar y analizar la información que lees, lo cual te permitirá una comprensión más profunda y precisa."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente tenés problemas para identificar el significado implícito de los textos, es importante que te concentres en mejorar tus habilidades de inferencia. Además de revisar la sección ¿Por qué son importantes?, en la Escena 1, te recomendamos que examines en detalle cómo las inferencias permiten conectar ideas y detalles, así como desarrollar el pensamiento crítico. Esta comprensión te ayudará a llenar vacíos de información y a interpretar textos de manera más efectiva y completa."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre enfrentás dificultades para reconocer el significado implícito en los textos, es crucial que te enfoques en desarrollar tus habilidades de inferencia. Te recomendamos estudiar detenidamente la sección ¿Por qué son importantes? de la Escena 1, que explica cómo las inferencias son fundamentales para interpretar significados implícitos, conectar ideas y detalles, y fomentar el pensamiento crítico. Estos aspectos son esenciales para comprender textos más complejos y mejorar tu capacidad para enfrentar desafíos en contextos laborales y académicos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez tuviste problemas para aplicar una estrategia para obtener más información de un texto?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca has tenido problemas para aplicar estrategias para obtener más información, es probable que tengas una sólida habilidad para inferir detalles ausentes. Para seguir perfeccionando tu comprensión, te sugerimos revisar la sección Inferencia basada en el contexto de la Escena 2. Esto te permitirá reforzar cómo utilizar el contexto del texto para hacer conjeturas precisas y mejorar aún más tu capacidad para obtener información."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás problemas para aplicar estrategias de inferencia, te invitamos a enfocarte en la Inferencia basada en la comparación de la Escena 2. Esta sección te enseñará cómo comparar información de diferentes fuentes para validar detalles y llenar los vacíos de información en los textos. Esto te ayudará a abordar con mayor eficacia los textos que no proporcionan toda la información necesaria."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente tenés problemas con la aplicación de estrategias para obtener más información, es importante profundizar en el Análisis de problemas y soluciones de la Escena 2. Esta sección ofrece estrategias avanzadas para inferir problemas y sus soluciones basadas en la información disponible y experiencias previas. Trabajar en esta área te ayudará a mejorar tu capacidad para manejar información incompleta o ambigua en los textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre enfrentás dificultades para aplicar estrategias y obtener más información, es crucial que te enfoques en mejorar tus habilidades de inferencia. Te recomendamos revisar los temas de la Escena 2: Inferencia basada en el formato y la estructura del texto e Inferencia basada en el uso de ejemplos y casos previos. Estos puntos te proporcionarán herramientas adicionales para interpretar y completar la información ausente en los textos, facilitando una comprensión más completa."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez tuviste dificultades para obtener información de un texto porque te faltaba uno de los siguientes elementos: conocimiento previo, análisis del contexto, o reconocimiento de estructuras textuales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca has sentido que te faltaba conocimiento previo, análisis del contexto, o reconocimiento de estructuras textuales, es probable que tengas una buena base en las habilidades necesarias para hacer inferencias efectivas. Para seguir perfeccionando tu capacidad, te sugerimos explorar el tema de Capacidad de predicción en la Escena 2. Este tema te ayudará a fortalecer aún más tu habilidad para anticipar información y conectar ideas, lo que enriquecerá tu comprensión general."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces sentís que te faltan herramientas para hacer inferencias, podrías beneficiarte al focalizar en la Habilidad para conectar ideas de la Escena 2. Este tema te enseñará cómo unir información dispersa y relacionar conceptos para mejorar tus inferencias. Además, podrías revisar el apartado de Evaluación de la relevancia para identificar qué detalles son cruciales para tu comprensión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente encontrás que te falta conocimiento previo, análisis del contexto, o reconocimiento de estructuras textuales, es importante que te enfoques en desarrollar la Autorregulación metacognitiva de la que se presenta en la Escena 2. Esta sección te ayudará a monitorear y ajustar tu proceso de comprensión, y a identificar qué áreas necesitas mejorar para hacer inferencias más efectivas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre tenés dificultades para hacer inferencias efectivas debido a la falta de herramientas, es importante que trabajes en mejorar cada una de estas habilidades. Revisá las secciones de Conocimiento previo, Análisis del contexto, y Reconocimiento de estructuras textuales en la Escena 2 para fortalecer tu capacidad en estas áreas. Además, focalizá en los temas de Pensamiento crítico y Capacidad de predicción para desarrollar una comprensión más profunda y completa."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez tuviste dificultades para anticipar el contenido de un texto?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca tuviste dificultades para anticipar el contenido de un texto, es probable que ya tengas una buena capacidad para aplicar estrategias de anticipación. Para seguir fortaleciendo tus habilidades, podrías explorar la sección sobre Planificación y estrategia en la sección ¿Qué es? de la Escena 3. Ahí encontrarás cómo aplicar técnicas de anticipación en situaciones con limitaciones de tiempo, lo que puede ayudarte a mejorar aún más tu eficacia en la lectura."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces tenés dificultades para anticipar el contenido, puede ser útil centrarte en la sección Monitoreo y control de la sección ¿Qué es? en la Escena 3.. Esta sección te proporcionará estrategias para ajustar tus enfoques de lectura y cómo monitorear tu comprensión para asegurar que estás capturando la información esencial. Practicar estas técnicas te ayudará a mejorar tu capacidad para anticipar el contenido y manejar mejor la información cuando el tiempo es limitado."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente encontrás problemas al anticipar el contenido de un texto, te recomendamos revisar tanto la sección Planificación y estrategia como la Autorregulación del aprendizaje en la sección ¿Qué es? de la Escena 3. La Planificación y estrategia te ayudará a desarrollar métodos para prever el contenido de manera efectiva, mientras que la Autorregulación del aprendizaje te permitirá ajustar tus estrategias y enfoques de manera activa. Estas secciones te proporcionarán herramientas adicionales para enfrentar mejor la información extensa y mejorar tu eficiencia en la lectura."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre tenés dificultades para anticipar el contenido de un texto, es crucial que te enfoques en la sección ¿Qué es? de la Escena 3, en especial en los temas Planificación y estrategia, Monitoreo y control, y Conciencia metacognitiva. Planificación y estrategia te ayudará a estructurar tu enfoque de lectura, Monitoreo y control te permitirá ajustar tu comprensión en tiempo real, y Conciencia metacognitiva te ofrecerá una reflexión profunda sobre cómo procesas la información. Trabajar en estas áreas te permitirá mejorar significativamente tu capacidad para anticipar y gestionar la información en textos extensos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez te has enfrentado a dificultades para anticipar la organización de la información en un texto debido a un formato confuso?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca has tenido dificultades para anticipar la organización de la información en un texto, es posible que tengas una buena capacidad para analizar el formato y el paratexto. Para seguir mejorando, podés revisar el punto Formato en la Escena 3, para seguir perfeccionando tu habilidad para prever cómo está estructurada la información en diversos tipos de textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás dificultades para anticipar la organización de la información debido a un formato confuso, podrías beneficiarte de un análisis más detallado del paratexto. Consultá la el punto Formato en la Escena 3 para aprender más sobre cómo utilizar el índice y las secciones principales para anticipar la organización del contenido en los textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente enfrentás problemas para anticipar la organización de la información por un formato confuso, es importante que trabajes en mejorar tu análisis del paratexto. Además de revisar el punto Formato, también te sugerimos focalizar en Lectura activa en la Escena 3 para mejorar tu capacidad para hacer predicciones basadas en la estructura y el contenido del texto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre tenés dificultades para anticipar la organización de la información debido a un formato confuso, es fundamental que fortalezcas tu habilidad en el análisis del paratexto y la lectura activa. Revisá en profundidad la sección Pasos de la estrategia en la Escena 3, atendiendo a cada punto, para mejorar tu capacidad para prever la estructura y el contenido del texto, y ajustar tus estrategias según sea necesario."
+    }
+]

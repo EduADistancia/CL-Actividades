@@ -1,0 +1,202 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez te pasó que, al leer un documento, no entendías por qué parecía desordenado o caótico?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca tuviste inconvenientes para entender por qué un texto parece desordenado o caótico, te sugerimos, en la Escena 1, revisar ¿Qué es la estructura? para fortalecer tu comprensión sobre cómo los textos se organizan."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces te resulta difícil identificar el orden en los textos, te proponemos focalizar en la sección ¿Qué ejemplos hay? de la Escena 1 para familiarizarte con cómo se organiza la información en distintos formatos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente encontrás que los textos parecen desordenados, te recomendamos revisar la sección ¿Qué es la estructura?, para conocer de qué se trata, y ¿Qué ejemplos hay?, en la Escena 1. Esto te ayudará a reconocer cómo se presentan las instrucciones y los pasos secuenciales en estos textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te parece que los textos están caóticos, además de consultar ¿Qué es la estructura?, revisá la sección ¿Por qué es importante?, ambas en la escena 1. Entender la relevancia de la estructura textual te ayudará a mejorar tu comprensión y organización de la información en distintos tipos de documentos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez te pasó que, al leer un texto, no sabías por dónde empezar a buscar la información relevante?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca tenés inconvenientes para saber por dónde empezar a buscar información relevante en un texto, en la Escena 1 te sugerimos revisar la sección ¿Qué es la estructura? para reforzar tu capacidad de identificar la organización de la información en los textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces te resulta complicado encontrar las partes más importantes en un texto largo, te sugerimos hacer foco en ¿Qué ejemplos hay?, de la Escena 1, para familiarizarte con la organización de la información en distintos tipos de textos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te cuesta encontrar la información clave en un texto, en la Escena 1 te recomendamos revisar la sección ¿Qué es la estructura?, para comprender de qué se trata y ¿Qué ejemplos hay?. Esto te ayudará a identificar las secciones clave según el tipo de texto."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te resulta difícil encontrar la información relevante en un texto, además de revisar ¿Qué es la estructura?, en la Escena 1, también te sugerimos consultar ¿Por qué es importante? para comprender cómo la estructura textual optimiza el tiempo de lectura y facilita la organización de la información.No olvides revisar los ejemplos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez te pasó que, al leer un texto en el trabajo, no sabías qué tipo de texto era y te costaba entenderlo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca tuviste inconveniente para identificar el tipo de texto, te sugerimos revisar la sección ¿Qué características tienen? en la Escena 2, para profundizar en las características de cada tipo textual y mejorar tu capacidad de identificación en futuros textos laborales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces te cuesta identificar el tipo de texto, te sugerimos revisar la sección ¿Qué tipos textuales hay? en la Escena 2, donde podrás conocer los principales tipos textuales empleados en el trabajo y sus elementos distintivos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te resulta complicado identificar el tipo de texto, te recomendamos visitar la sección ¿Cómo reconocerlos? en la Escena 2. Allí encontrarás claves para distinguir entre narrativos, expositivos, argumentativos, descriptivos e instructivos, y así facilitar tu comprensión."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te resulta difícil identificar el tipo de texto, además de revisar la sección ¿Qué tipos textuales hay? en la Escena 2, te sugerimos consultar ¿Por qué es importante? para entender cómo esta habilidad puede mejorar tu eficiencia y precisión en el trabajo."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Te ha pasado que, al leer un texto laboral, no sabías qué esperar o qué información clave encontrar en él?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca tuviste inconvenientes para anticipar qué información ibas a encontrar en un texto, te recomendamos revisar la sección ¿Qué ejemplos hay? en la Escena 2. Conocer ejemplos claros de textos narrativos, expositivos, argumentativos, descriptivos e instructivos te permitirá identificar rápidamente lo que puedes esperar de cada uno."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces no sabés qué esperar de un texto, te sugerimos visitar la sección ¿Qué características tienen? en la Escena 2. Allí podrás aprender cómo cada tipo textual presenta la información y qué elementos clave esperar de ellos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te cuesta predecir qué información clave encontrarás en un texto, te recomendamos visitar la sección ¿Cómo reconocerlos? en la Escena 2, donde aprenderás a identificar el tipo textual y anticipar qué información es más relevante según su estructura."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te cuesta identificar la información clave en un texto, además de revisar la sección ¿Qué tipos textuales hay? en la Escena 2, te sugerimos hacer foco en ¿Qué características tienen? para conocer cómo se organiza la información en cada tipo textual."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Alguna vez te ha resultado difícil identificar el tipo textual de un documento que estás revisando?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te resulta difícil identificar el tipo textual, esto indica que tenés buena habilidad para reconocer las características específicas de cada tipo de texto. Para seguir perfeccionando tu habilidad, te sugerimos revisar la sección de la Escena 3: ¿Qué tipos textuales hay? en tu material. Esto te ayudará a consolidar tu conocimiento sobre las diferencias y características de cada tipo textual."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces te es difícil identificar el tipo textual, te invitamos a focalizar en la sección de la Escena 3: ¿Qué características tienen?. Ahí encontrarás descripciones detalladas sobre las características y elementos clave d"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te resulta complicado identificar el tipo textual, te sugerimos que revises la sección de la Escena 3: ¿Qué tipos textuales hay? para familiarizarte con los tipos y sus características generales, y ¿Qué características tienen? para profundizar en los detalles específicos de cada tipo textual. Esto te proporcionará una comprensión más completa y te ayudará a aplicar estrategias de lectura más efectivas."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te resulta difícil identificar el tipo textual, te recomendamos revisar en profundidad la sección de la Escena 3: ¿Qué tipos textuales hay? y la sección ¿Qué características tienen?. Focalizá en ambos temas para construir una base sólida en la identificación y comprensión de los tipos textuales, lo que te permitirá aplicar técnicas de lectura adecuadas y mejorar tu desempeño en la revisión de documentos."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez has tenido dificultades para aplicar la estrategia adecuada de lectura al tipo de texto laboral que estás revisando?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te resulta difícil aplicar la estrategia adecuada de lectura, esto muestra un buen manejo de cómo adaptar tus técnicas de lectura según el tipo de texto. Para seguir perfeccionando tu enfoque, te sugerimos revisar la sección de la Escena 3: ¿Cómo reconocerlos? en tu material, que proporciona claves para reconocer las características de cada tipo de texto y ajustar tus estrategias de lectura en consecuencia."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás dificultades para aplicar la estrategia de lectura adecuada, te recomendamos consultar la sección de la Escena 3: ¿Qué ejemplos hay?. Aquí verás ejemplos concretos de cada tipo de texto laboral que te ayudarán a entender mejor cómo adaptar tu lectura según el tipo de documento con el que estás trabajando."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente tenés problemas para aplicar la estrategia adecuada de lectura, te sugerimos revisar la sección de la Escena 3: ¿Qué ejemplos hay? y la sección de la Escena 3: ¿Cómo reconocerlos?. La primera te proporcionará ejemplos prácticos, mientras que la segunda te ofrecerá claves para identificar las características del texto y adaptar tu estrategia de lectura, ayudándote a mejorar tu eficacia en la revisión de documentos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre te resulta difícil aplicar la estrategia adecuada de lectura, te recomendamos hacer foco en la sección de la Escena 3: ¿Qué ejemplos hay? y la sección de la Escena 3: ¿Cómo reconocerlos?. Ambas secciones te proporcionarán ejemplos específicos y estrategias para reconocer y abordar los diferentes tipos de textos laborales, permitiéndote ajustar tus técnicas de lectura para cada caso."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez has encontrado dificultades para manejar la lectura de textos digitales debido a sus características interactivas y la actualización continua del contenido?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te resulta difícil manejar la lectura de textos digitales, esto muestra que estás cómodo/a con la flexibilidad y la interactividad de estos formatos. Para seguir perfeccionando tu habilidad, te sugerimos revisar la sección de la Escena 4: ¿Qué características tienen? Esto te ayudará a mantenerte al tanto de las mejores prácticas para la lectura y gestión de textos digitales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás dificultades con los textos digitales, te invitamos a estudiar la sección de la Escena 4: ¿Qué son? Aquí se abordan los desafíos específicos de los textos digitales y las estrategias para superar las dificultades relacionadas con su formato flexible y elementos interactivos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te resulta complicado manejar la lectura de textos digitales, te sugerimos focalizar en la sección de la Escena 4: ¿Qué son? y la sección de la Escena 4: ¿Qué características tienen?. La primera te ofrecerá una visión general de los desafíos de los textos digitales, mientras que la segunda te proporcionará detalles sobre sus características y estrategias para gestionarlas de manera efectiva."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre encontrás dificultades con la lectura de textos digitales, te recomendamos revisar la sección de la Escena 4: ¿Qué son? y la sección de la Escena 4: ¿Qué características tienen?. Estas secciones te proporcionarán una comprensión completa de las características y desafíos de los textos digitales, así como estrategias para manejar la interactividad y las actualizaciones continuas de manera efectiva."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Alguna vez te has enfrentado a dificultades para utilizar herramientas de búsqueda, hacer anotaciones, evaluar la credibilidad de la información o gestionar distracciones mientras lees textos digitales?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nunca",
+        "Devolucion": "Si nunca te resulta difícil utilizar herramientas de búsqueda, hacer anotaciones, evaluar la credibilidad de la información o gestionar distracciones, significa que manejás bien estas técnicas esenciales para la comprensión de textos digitales. Para seguir perfeccionando tu habilidad, te sugerimos revisar la sección de la Escena 4 ¿Qué técnicas requieren? en tu material. Esto te ayudará a mantenerte actualizado sobre las mejores prácticas para la lectura de textos digitales."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "A veces",
+        "Devolucion": "Si a veces encontrás dificultades con alguna de las técnicas mencionadas, te invitamos a estudiar la sección de la Escena 4: ¿Qué técnicas requieren? en tu contenido. Aquí se detallan estrategias específicas para el uso de herramientas de búsqueda, la realización de anotaciones efectivas, la evaluación de la credibilidad de la información y la gestión de la multitarea."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con frecuencia",
+        "Devolucion": "Si frecuentemente te resulta complicado utilizar las técnicas para la comprensión de textos digitales, te sugerimos focalizar en la sección de la Escena 4: ¿Qué técnicas requieren?. Esta sección ofrece una guía detallada sobre cómo aplicar las técnicas de búsqueda, anotación, evaluación de la credibilidad y gestión de distracciones, lo que puede ayudarte a mejorar tu habilidad en estos aspectos."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre",
+        "Devolucion": "Si siempre enfrentás dificultades con las técnicas para leer y comprender textos digitales, te recomendamos revisar en profundidad la sección de la Escena 4: ¿Qué técnicas requieren?. Esta sección te proporcionará una comprensión completa de las técnicas necesarias para manejar textos digitales de manera efectiva, mejorar tu capacidad para utilizar herramientas de búsqueda y anotación, evaluar la credibilidad de la información y gestionar las distracciones en entornos digitales."
+    }
+]
